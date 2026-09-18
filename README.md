@@ -18,7 +18,7 @@
 ## Story
 Diese Anleitung beschreibt den Aufbau eines Fidget Spinner. Der Fidget Spinner wird aus 3mm Sperrholz gelasert. 
 
-![Bild](/pic/Fidget_Spinnere.gif)
+![Bild](/pic/Fidget_Spinner.gif)
 
 
 
