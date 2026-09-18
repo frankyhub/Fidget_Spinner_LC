@@ -39,11 +39,11 @@ Diese Anleitung beschreibt den Aufbau eines Fidget Spinner. Der Fidget Spinner w
 
 ### Montage
 
-![Bild](/pic/Fidget_Spinner1.png)
+![Bild](/pic/Fidget_Spinner1.JPG)
 
-![Bild](/pic/Fidget_Spinner2.png)
+![Bild](/pic/Fidget_Spinner2.JPG)
 
-![Bild](/pic/Fidget_Spinner3.png)
+![Bild](/pic/Fidget_Spinner3.JPG)
 
 
 ---
