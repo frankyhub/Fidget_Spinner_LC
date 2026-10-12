@@ -9,7 +9,6 @@
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Fidget_Spinner_LC)| <a href="https://github.com/frankyhub/Fidget_Spinner_LC/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Fidget_Spinner_LC/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
 
-
 <img src="pic/Fidget_Spinner.gif" width="500"> 
 <br> <br>
 
